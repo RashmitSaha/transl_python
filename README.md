@@ -1,3 +1,5 @@
+All the programs are written using the translate module
+
 poem_translator.py -> reads the file containing a poem and then translates it into another file
 
 text_translator.py -> takes a text from user and puts it into a file, then translates into another file in the language chosen according to user input
